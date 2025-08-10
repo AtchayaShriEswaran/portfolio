@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+header {
+    background: #0077b6;
+    color: white;
+    padding: 20px;
+}
+section {
+    padding: 20px;
+    background: white;
+    margin: 20px;
+    border-radius: 8px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+.project-card {
+    background: #caf0f8;
+    padding: 10px;
+    border-radius: 5px;
+}
+footer {
+    background: #023e8a;
+    color: white;
+    padding: 10px;
+}
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
+
